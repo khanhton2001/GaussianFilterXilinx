@@ -1,4 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Huy Nam Ton/Downloads/GaussianFilter.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity GaussianFilter
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Huy Nam Ton/Downloads/tb_top.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity tb_top
